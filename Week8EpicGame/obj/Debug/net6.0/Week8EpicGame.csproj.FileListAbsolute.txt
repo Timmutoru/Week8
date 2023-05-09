@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.exe
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.deps.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\bin\Debug\net6.0\Week8EpicGame.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\refint\Week8EpicGame.dll
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.pdb
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\Week8EpicGame.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Progemine\RKE132\Week8EpicGame\Week8EpicGame\obj\Debug\net6.0\ref\Week8EpicGame.dll
